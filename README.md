@@ -1,4 +1,4 @@
-### What's up? I'm Daniel! 👾
+### Nice to Meet You, I'm Daniel! 👾
 
 - 🛠️ **Building:** Cool immersive VR solutions for industry & training (Unity / C#)
 - 🚀 **Leveling up:** Diving deep into Unreal Engine & Blender 3D
